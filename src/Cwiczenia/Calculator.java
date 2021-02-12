@@ -1,3 +1,5 @@
+package Cwiczenia;
+
 import java.util.Scanner;
 
 public class Calculator {

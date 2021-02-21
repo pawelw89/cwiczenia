@@ -1,4 +1,4 @@
-package Cwiczenia.App;
+package Cwiczenia.PhoneApp;
 
 public class App {
 
